@@ -1,0 +1,4 @@
+﻿__pycache__/
+*.pyc
+screen_state.json
+.venv/
